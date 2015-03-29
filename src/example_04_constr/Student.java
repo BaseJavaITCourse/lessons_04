@@ -6,7 +6,7 @@ public class Student {
 	int age = 18;
 	String name = "Vasaj";
 
-	// Construktor
+	// Constructor
 	public Student(){
 		System.out.println("Student");		
 	}	
